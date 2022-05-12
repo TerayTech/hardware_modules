@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\dev\OneDrive\2019ÖÇÄÜ³µ\TOF\design\PCB\1.0_evm.PcbDoc
+Date         : 2019/6/8
+Time         : 18:09:19
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 66
+    Connections routed, 66
+    Connections remaining, 0
+count : 4
