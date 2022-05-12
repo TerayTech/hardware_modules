@@ -1,0 +1,10 @@
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\bin\Debug\serialControlPWM.exe.config
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\bin\Debug\serialControlPWM.exe
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\bin\Debug\serialControlPWM.pdb
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\obj\Debug\serialControlPWM.csprojAssemblyReference.cache
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\obj\Debug\serialControlPWM.Form1.resources
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\obj\Debug\serialControlPWM.Properties.Resources.resources
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\obj\Debug\serialControlPWM.csproj.GenerateResource.cache
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\obj\Debug\serialControlPWM.csproj.CoreCompileInputs.cache
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\obj\Debug\serialControlPWM.exe
+I:\vs_projects\serialControlPWM_MTD\serialControlPWM\obj\Debug\serialControlPWM.pdb
